@@ -1,0 +1,8 @@
+{
+  "name": "rangekit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RangeKit: find the key your voice wants for this song. Sing your range, score all 12 keys, hear and export the song in your key. WorkinWithAI.",
+  "scripts": { "build": "rm -rf dist && mkdir -p dist && cp index.html app.js styles.css dist/ && cp -r public/samples dist/samples" },
+  "license": "UNLICENSED"
+}
